@@ -1,5 +1,5 @@
 # project-02
-stock market prediction tools, in the near future I will update. The purpose is making prediction mobile application
+stock market prediction tools, in the near future I am going to update this. The purpose is making prediction mobile application
 
 - S&P500 from 1950 to 2019 year.
 - analazy market risk, based on prediction we can decided to go in or not.
